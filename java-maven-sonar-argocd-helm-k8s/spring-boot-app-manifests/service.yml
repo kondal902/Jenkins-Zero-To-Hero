@@ -1,4 +1,4 @@
-apiVersion: v1
+apiVersion: v14
 kind: Service
 metadata:
   name: spring-boot-app-service
